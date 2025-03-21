@@ -3,27 +3,27 @@
     {
       "id": "1",
       "name": "Admin User",
-      "email": "admin@example.com",
+      "email": "karriindira9@gmail.com",
       "password": "admin@123",
       "role": "admin"
     },
     {
       "id": "2",
-      "name": "Employee One",
-      "email": "employee1@example.com",
+      "name": "Rohan Gupta",
+      "email": "Rohangupta13@gmail.com",
       "password": "password1",
       "role": "employee"
     },
     {
       "id": "3",
-      "name": "Employee Two",
-      "email": "employee2@example.com",
+      "name": "Gayathri subrahmanyam",
+      "email": "gayathri31@gmail.com",
       "password": "password2",
       "role": "employee"
     },
     {
-      "name": "Employee Three",
-      "email": "employee3@example.com",
+      "name": "Karri Anitha",
+      "email": "anitha54@gmail.com",
       "password": "password3",
       "role": "employee",
       "id": "4"
@@ -31,12 +31,21 @@
     {
       "id": "29f1",
       "name": "karri indra",
-      "email": "karriindira9@gmail.com",
+      "email": "karriindira200@gmail.com",
       "password": "Indira@123",
       "role": "employee"
     },
     {
       "id": "1b6d"
+      
+
+    },
+    {
+      "id": "1404",
+      "name": "Vipul Sharma",
+      "email": "karriindira400@gmail.com",
+      "password": "Indira@123",
+      "role": "employee"
     }
   ],
   "scrums": [
@@ -55,13 +64,17 @@
     {
       "id": "9d52",
       "name": "Scrum Team D"
+    },
+    {
+      "id": "e92d",
+      "name": "WIPRO_PROJECT"
     }
   ],
   "tasks": [
     {
       "id": "1",
       "title": "Task One",
-      "description": "Description for Task One",
+      "description": "Antibiotic resistance prediction",
       "status": "Done",
       "scrumId": 1,
       "assignedTo": 2,
@@ -83,7 +96,7 @@
     {
       "id": "2",
       "title": "Task Two",
-      "description": "Description for Task Two",
+      "description": "Creating Learning Managment system",
       "status": "In Progress",
       "scrumId": 2,
       "assignedTo": 3,
@@ -100,7 +113,7 @@
     },
     {
       "title": "Task 3",
-      "description": "Description for Task 3",
+      "description": "Building Library Managment System",
       "status": "In Progress",
       "scrumId": 3,
       "assignedTo": 3,
@@ -115,7 +128,7 @@
     {
       "id": "3783",
       "title": "Task 4",
-      "description": "cearing Agile managment system",
+      "description": "creating Agile managment system",
       "status": "In Progress",
       "scrumId": "9d52",
       "assignedTo": "29f1",
@@ -123,6 +136,20 @@
         {
           "status": "In Progress",
           "date": "2025-03-18"
+        }
+      ]
+    },
+    {
+      "id": "c4ad",
+      "title": "Capstone_Agile_Tracking_system_problem_design",
+      "description": "The team member needs to create the problem sets for capstone projects for wipro training candidates",
+      "status": "To Do",
+      "scrumId": "e92d",
+      "assignedTo": "2",
+      "history": [
+        {
+          "status": "To Do",
+          "date": "2025-03-21"
         }
       ]
     }
